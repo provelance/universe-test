@@ -5,3 +5,4 @@
 - Rule | deposit
 - Rule | kelly
 - ACTION | init
+- RULE | init
