@@ -1,6 +1,7 @@
 # universe-test
 测试宇宙
 
-Rule | init
-Rule | deposit
-Rule | kelly
+- Rule | init
+- Rule | deposit
+- Rule | kelly
+- ACTION | init
