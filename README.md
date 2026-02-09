@@ -2,3 +2,4 @@
 测试宇宙
 
 Rule | init
+Rule | deposit
