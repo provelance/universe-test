@@ -1,2 +1,4 @@
 # universe-test
 测试宇宙
+
+Rule | init
