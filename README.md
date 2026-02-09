@@ -3,3 +3,4 @@
 
 Rule | init
 Rule | deposit
+Rule | kelly
