@@ -7,5 +7,5 @@ state['balance'] = params['balance']
 ```
 - ACTION | init_balance
 ```Python
-{'balance':100}
+{"amount": 100}
 ```
