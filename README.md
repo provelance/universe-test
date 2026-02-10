@@ -2,6 +2,10 @@
 测试宇宙
 
 - RULE | init_balance
-```python
+```Python
 state['balance'] = params['balance']
+```
+- ACTION | init_balance
+```Python
+{'balance':100}
 ```
